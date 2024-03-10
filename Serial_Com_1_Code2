@@ -1,0 +1,18 @@
+# 코드
+
+
+void setup(){
+   Serial.begin(9600);
+   Serial.print("Hello World!!");
+   Serial.print("Hello World!!");
+}
+
+void loop(){
+
+}
+
+
+출력
+
+
+Hello WorldHello World
