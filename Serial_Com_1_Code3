@@ -18,3 +18,18 @@ Hello World
 
 
 Hello World
+
+#코드 3(2)
+
+void setup(){
+  Serial.begin(9600);
+  Serial.println(77);
+}
+
+void loop(){
+
+}
+
+출력
+
+77
